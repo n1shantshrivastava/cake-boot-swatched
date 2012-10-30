@@ -48,7 +48,7 @@ class AppController extends Controller {
          *  - Spruce
          *  - Superhero
          */
-        $this->bootSwatched = 'Cerulean'; //Default
+        $this->bootSwatched = 'Default'; //Default
     }
 
     public function beforeRender() {
