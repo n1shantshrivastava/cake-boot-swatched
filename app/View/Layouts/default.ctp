@@ -44,9 +44,6 @@ $cakeDescription = __d('cake_dev', 'Cake Boot Swatched ');
     </style>
 </head>
 <body>
-<!--script type ="text/javascript">
-    jQuery
-</script-->
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
