@@ -43,12 +43,13 @@ class AppController extends Controller {
          *  - Amelia
          *  - Cerulean
          *  - Cyborg
+	 *  - Flatly
          *  - Readable
          *  - Slate
          *  - Spruce
          *  - Superhero
          */
-        $this->bootSwatched = 'Cerulean'; //Default
+        $this->bootSwatched = 'Flatly'; //Default
     }
 
     public function beforeRender() {
